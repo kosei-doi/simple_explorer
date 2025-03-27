@@ -1,0 +1,2 @@
+# simple_explorer
+Windowsのコマンド上でのエクスプローラーの起動の簡略化のアプリ
